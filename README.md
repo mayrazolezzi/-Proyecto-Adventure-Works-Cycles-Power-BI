@@ -23,7 +23,7 @@ Developed an end-to-end Power BI solution by importing data from SQL and applyin
 
 **Files & links**  
 - 📄  [Informe en PDF](DA_zolezzi_mayra_informePI.pdf) 
-- 📊  [Dashboard en Power BI (.pbix)](PI_MZ_M3_AdventureWorksDW2019.pbix)  
+- 📊  [Dashboard en Power BI (.pbix)](https://github.com/mayrazolezzi/-Proyecto-Adventure-Works-Cycles-Power-BI/blob/main/PI_MZ_M3_%20AdventureWorksDW2019.pbix)  
 
 **Skills highlighted**
 Power BI (Power Query, DAX) · SQL · Data Modeling · Data Visualization · Data Storytelling
