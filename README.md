@@ -22,8 +22,8 @@ Developed an end-to-end Power BI solution by importing data from SQL and applyin
 3) Measures are grouped in a dedicated Measures table for easy navigation.
 
 **Files & links**  
-- 📄 Project Report (PDF): DA_zolezzi_mayra_informePI.pdf
-- 📊 Power BI file: [PI_MZ_M3_ AdventureWorksDW2019 (.pbix)](files/PI_MZ_M3_ AdventureWorksDW2019.pbix)  
+- 📄  [Informe en PDF](DA_zolezzi_mayra_informePI.pdf) 
+- 📊  [Dashboard en Power BI (.pbix)](PI_MZ_M3_AdventureWorksDW2019.pbix)  
 
 **Skills highlighted**
 Power BI (Power Query, DAX) · SQL · Data Modeling · Data Visualization · Data Storytelling
