@@ -22,8 +22,8 @@ _Page 2 – Global Report_
 *(Add more pages as needed: e.g., USA deep-dive, profitability by product, etc.)*
 
 **How to run**  
-1) Open the `.pbix` with Power BI Desktop (latest).  
-2) If you refresh from SQL, update the connection string/credentials in **Transform data** → **Data source settings**.  
+1) Open the `.pbix` with Power BI Desktop (latest).
+2) Navigate through the interactive dashboards, filter by year or category if you need it.
 3) Measures are grouped in a dedicated Measures table for easy navigation.
 
 **Files & links**  
