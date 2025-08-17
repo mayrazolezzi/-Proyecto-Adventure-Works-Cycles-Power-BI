@@ -29,4 +29,7 @@ _Page 2 – Global Report_
 **Files & links**  
 - 📄 Project Report (PDF): `docs/AWC_Report.pdf`  
 - 🧩 Dashboard mockups (PDF/PNG): `docs/AWC_Mockups.pdf` & `assets/mockups/`  
-- 📊 Power BI file: `artifacts/AdventureWorks.pbix` *(or download link below)*  
+- 📊 Power BI file: `artifacts/AdventureWorks.pbix` *(or download link below)*
+
+**Skills highlighted**
+Power BI (Power Query, DAX) · SQL · Data Modeling · Data Visualization · Data Storytelling
