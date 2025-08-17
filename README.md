@@ -16,20 +16,14 @@ Developed an end-to-end Power BI solution by importing data from SQL and applyin
 - YoY cumulative revenue outperforms the current-period baseline, indicating sustained growth.  
 - Future analysis: product categorization and discount influence (via `FactInternetSales`).
 
-**Dashboards (screenshots)**  
-_Page 2 – Global Report_  
-![Global Report](assets/img/global-report.png)  
-*(Add more pages as needed: e.g., USA deep-dive, profitability by product, etc.)*
-
 **How to run**  
 1) Open the `.pbix` with Power BI Desktop (latest).
 2) Navigate through the interactive dashboards, filter by year or category if you need it.
 3) Measures are grouped in a dedicated Measures table for easy navigation.
 
 **Files & links**  
-- 📄 Project Report (PDF): `docs/AWC_Report.pdf`  
-- 🧩 Dashboard mockups (PDF/PNG): `docs/AWC_Mockups.pdf` & `assets/mockups/`  
-- 📊 Power BI file: `artifacts/AdventureWorks.pbix` *(or download link below)*
+- 📄 Project Report (PDF): DA_zolezzi_mayra_informePI.pdf
+- 📊 Power BI file: PI_MZ_M3_ AdventureWorksDW2019.pbix
 
 **Skills highlighted**
 Power BI (Power Query, DAX) · SQL · Data Modeling · Data Visualization · Data Storytelling
